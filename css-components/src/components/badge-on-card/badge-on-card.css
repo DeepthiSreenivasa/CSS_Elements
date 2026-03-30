@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    width:250px;
+    height:250px;
+    border:2px solid blue;
+    position:relative
+}
+
+.badge{
+    width:70px;
+    height:25px;
+    border:2px solid green;
+    position:absolute;
+    right:0px;
+    top:0px;
+    text-align: center;
+
+}

@@ -1,0 +1,12 @@
+.body{
+    border: 5px solid orange;
+    min-height: 150vh;
+   
+}
+
+.screenPuller{
+    border: 2px solid blue;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
